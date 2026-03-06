@@ -9,7 +9,7 @@ The project focuses on **text preprocessing, feature extraction, and model train
 
 ## Dataset
 
-The dataset used in this project is the **SMS Spam Collection Dataset**, which contains thousands of SMS messages labeled as either **spam** or **ham (not spam)**.
+The dataset used in this project is the **SMS Spam Collection Dataset**, which contains thousands of messages labeled as either **spam** or **ham (not spam)**.
 
 Dataset features include:
 
